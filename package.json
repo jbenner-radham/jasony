@@ -1,0 +1,37 @@
+{
+  "name": "jasony",
+  "version": "0.0.0",
+  "main": "lib/jasony.js",
+  "description": "The best module ever.",
+  "homepage": "https://github.com/jbenner55/jasony",
+  "bugs": "https://github.com/jbenner55/jasony/issues",
+  "author": {
+    "name": "James Benner",
+    "email": "james.benner@gmail.com",
+    "url": "http://radioactivehamster.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbenner55/jasony"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "jasony",
+    "json",
+    "fs",
+    "filesystem",
+    "beautify"
+  ],
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-nodemon": "^1.0.4",
+    "gulp-util": "^3.0.1",
+    "jshint-stylish": "^0.2.0"
+  },
+  "scripts": {
+    "test": ""
+  }
+}
